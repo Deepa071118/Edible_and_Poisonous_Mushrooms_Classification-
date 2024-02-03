@@ -6,3 +6,7 @@ This project aims to classify mushrooms into edible and poisonous categories bas
 ## Dataset
 
 The dataset used for training and testing the model consists of labeled images of mushrooms. It is important to ensure the dataset is balanced and representative of both classes.The dataset contains 272 images of both edible and posinous images making a total of 544 images.
+
+## Model Architecture
+
+The CNN architecture used for mushroom classification comprises convolutional layers, pooling layers, and fully connected layers. The model is trained to learn features that distinguish between edible and poisonous mushrooms.
